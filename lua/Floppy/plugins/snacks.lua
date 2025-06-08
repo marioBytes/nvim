@@ -99,7 +99,7 @@ return {
           { section = "startup" },
           {
             section = "terminal",
-            cmd = "ascii-image-converter ~/kirby-try-before-you-buy-xxl-2x.png -C -c",
+            cmd = "ascii-image-converter /home/mario/Pictures/kirby.jpg -C -c",
             random = 15,
             pane = 2,
             indent = 15,
